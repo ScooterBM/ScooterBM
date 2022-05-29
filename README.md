@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScooterBM
-- 👀 I’m interested in medical imaging data analysis, deep learning in detecting patterns in pathology
+- 👀 I’m interested in cardiac or vascular 4D imaging data analysis, deep learning in detecting patterns in pathology
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects related to molecular (biomarker detection) imaging or pathology  
 - 📫 How to reach me loweryt at outlook dot com
